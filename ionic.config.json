@@ -1,0 +1,7 @@
+{
+  "name": "onesignal-807",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}

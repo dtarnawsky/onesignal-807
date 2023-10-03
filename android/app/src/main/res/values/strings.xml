@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">onesignal-807</string>
+    <string name="title_activity_main">onesignal-807</string>
+    <string name="package_name">onesignal.v807</string>
+    <string name="custom_url_scheme">onesignal.v807</string>
+</resources>
